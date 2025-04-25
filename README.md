@@ -11,7 +11,3 @@ A Python project that formats messages using custom decorators to add visual fla
    ```bash
    uv run main.py
    ```
-
-```markdown
-![Terminal Output](images/screenshot.png)
-```
